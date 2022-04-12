@@ -1,4 +1,4 @@
-# Exam #2: "Meme Generator"
+#"Meme Generator"
 
 ## Student: s281945 BAUDANZA FILIPPO
 
